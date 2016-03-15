@@ -36,3 +36,9 @@ body{
 #logo,#last{
 	margin-bottom: 0;
 }
+#logo,#name{
+	float: left;
+}
+#name{
+	padding-left: 10px;
+}
