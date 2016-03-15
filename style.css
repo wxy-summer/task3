@@ -1,6 +1,9 @@
 body{
 	margin: 0;
 }
+.p{
+	margin: 0;
+}
 .content,.left,.right,.main,.img{
 	border-style: solid;
 	border-color: #999;
