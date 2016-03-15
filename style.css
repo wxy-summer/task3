@@ -1,0 +1,38 @@
+body{
+	margin: 0;
+}
+.content,.left,.right,.main,.img{
+	border-style: solid;
+	border-color: #999;
+	border-width: 1px;
+}
+.left,.right,.main{
+	background-color: white;
+	padding: 20px;
+}
+.content{
+	margin: 10px;
+	padding: 20px;
+	background-color: #eee;
+	float: left;
+}
+.left {
+    float: left;
+    width: 200px;
+}
+.right {
+    float: right;
+    width: 80px;
+
+}
+.main {
+    margin-left: 260px;
+    margin-right: 140px;
+}
+.img{
+	width: 80px;
+	margin-bottom: 20px;
+}
+#last{
+	margin-bottom: 0;
+}
